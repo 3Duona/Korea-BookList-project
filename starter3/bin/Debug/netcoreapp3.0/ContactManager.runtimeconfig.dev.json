@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Duona\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Duona\\.nuget\\packages"
+    ]
+  }
+}
